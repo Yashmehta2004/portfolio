@@ -1,0 +1,38 @@
+.fdiv1 {
+    display: flex;
+    justify-content: space-between; /* Puts text on the left & details on the right */
+    align-items: center;
+    background-color: rgb(20, 95, 142);
+    padding: 1cm;
+}
+
+.fdiv12 {
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    flex: 1; /* Takes left side space */
+}
+
+.fdiv2-container {
+    flex: 1; /* Takes right side space */
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    gap: 15px;
+    padding-left: 10px;
+}
+
+.fdiv2 {
+    display: flex;
+    align-items: center;
+    gap: 25px; /* Space between image & text */
+    font-size: larger;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.fimg {
+    height: 70px;
+    width: 75px;
+    border-radius: 15px;
+}

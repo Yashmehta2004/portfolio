@@ -1,0 +1,37 @@
+.container{
+    height: auto;
+    width: 80vw;
+    margin-left: 7vw;
+    margin-right: 6vw;
+    background: rgb(34, 33, 33);
+    color: rgb(233, 236, 238);
+    border-radius: 25px;
+}
+.head1{
+    text-align: center;
+    padding-top: 5px;
+}
+.list1 p{
+    font-size: 4ch;
+}
+.im{
+    padding-top: 25px;
+    height: 100px;
+    width: 150px;
+}
+.div1{
+    display: flex;
+    gap: 60px;
+}
+.list1{
+    padding-left: 10px;
+}
+.hov1{
+    border-radius: 25px;
+    transition: 0.5sec;
+
+}
+.hov1:hover{
+    background: linear-gradient(to right, rgb(63, 84, 84), rgb(34, 33, 33)) ;
+    transition: 0.5sec;
+}
