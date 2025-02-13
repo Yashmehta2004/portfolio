@@ -22,10 +22,10 @@ const Footer = () => {
         <div className="fdiv2">
           <img
             className="fimg"
-            src="https://yt3.ggpht.com/-CepHHHB3l1Y/AAAAAAAAAAI/AAAAAAAAAAA/Z8MftqWbEqA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-            alt="LinkedIn"
+            src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+            alt="GitHub"
           />
-          <div>linkedin.com/in/yash-mehta-a9163724b</div>
+          <div>github.com/Yashmehta2004</div>
         </div>
 
         <div className="fdiv2">
